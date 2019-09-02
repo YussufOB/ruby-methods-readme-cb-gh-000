@@ -34,5 +34,4 @@ print answer.downcase
 total = 6+3
 total
 sub_total = total + 2334
-
 sub_total
